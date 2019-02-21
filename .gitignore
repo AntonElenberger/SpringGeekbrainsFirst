@@ -1,0 +1,11 @@
+
+spring-hibernate/.idea/compiler.xml
+spring-hibernate/.idea/dictionaries/Anton.xml
+spring-hibernate/.idea/encodings.xml
+spring-hibernate/.idea/misc.xml
+spring-hibernate/.idea/workspace.xml
+spring-hibernate/spring-hibernate.iml
+spring-hibernate/target/classes/hibernate.cfg.xml
+spring-hibernate/target/classes/com/geekbrains/Product.class
+spring-hibernate/target/classes/com/geekbrains/HibernateApp.class
+spring-hibernate/target/classes/com/geekbrains/Client.class
